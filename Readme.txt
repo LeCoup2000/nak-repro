@@ -7,11 +7,4 @@ neue zeile merge conflict in master
 
 änderung von jonas
 
-this will be a conflict
 
-this will be a conlfict as wlel
-
-hinezugefügt
-
-ist egal
- das wird committed
